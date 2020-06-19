@@ -8,6 +8,6 @@
 * [Modern_C++](/post/语言/Modern_C++.md)
 * [Modern_C++_函数与&右值引用](/post/语言/Modern_C++_函数与&右值引用.md)
 * [Modern_C++_智能指针&并发编程](/post/语言/Modern_C++_智能指针&并发编程.md)
-
+* [go_标准库](/post/语言/go_标准库.md)
 
 
